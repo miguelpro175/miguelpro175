@@ -12,6 +12,8 @@
 
 🛠️ Suporte técnico e atualização constante dos sistemas para garantir estabilidade
 
+======------------======
+
 💼 Tecnologias e competências:
 
 ☕ Linguagem Java aplicada ao ecossistema Minecraft
