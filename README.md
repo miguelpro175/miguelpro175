@@ -3,16 +3,23 @@
 🚀 Atividades desempenhadas:
 
 🔧 Criação e desenvolvimento de plugins personalizados para Minecraft
+
 ⚙️ Configuração e otimização de plugins para melhorar a experiência do servidor
+
 📈 Implementação de sistemas de gameplay como economia, habilidades, combate, proteção e clãs
+
 🧩 Estruturação modular visando facilidade de manutenção e expansão dos plugins
+
 🛠️ Suporte técnico e atualização constante dos sistemas para garantir estabilidade
 
 💼 Tecnologias e competências:
 
 ☕ Linguagem Java aplicada ao ecossistema Minecraft
+
 🧠 Programação orientada a objetos e boas práticas de engenharia de software
+
 🧪 Testes e correção de bugs em ambientes de produção
+
 📝 Controle de versão com Git/GitHub
 
 
